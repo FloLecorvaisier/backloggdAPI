@@ -1,0 +1,4 @@
+#' @param type \'Type\' filter.
+#' @param release_year \'Release Year\' filter.
+#' @param genre \'Genre\' filter.
+#' @param game_status \'Play Status\' filter.

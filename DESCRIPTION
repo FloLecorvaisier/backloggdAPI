@@ -1,0 +1,14 @@
+Package: backloggdAPI
+Title: An API + wrapper for backloggd.com
+Version: 0.1.0
+Authors@R: 
+    person("Florian", "Lecorvaisier", , "florian.lecorvaisier@gmail.com", role = c("aut", "cre"))
+Description: This package provides a pseudo-API and a wrapper around this API to request data from the website backloggd.com.
+URL: https://github.com/FloLecorvaisier/backloggdAPI
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+	httr (>= 1.4.7),
+	htm2txt (>= 2.2.2)
